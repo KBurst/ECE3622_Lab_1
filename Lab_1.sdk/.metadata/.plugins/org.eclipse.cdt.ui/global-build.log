@@ -1,0 +1,3352 @@
+16:38:19 **** Build of project Lab1_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_10/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_8/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+arm-none-eabi-ar: creating ../../../lib/libxil.a
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_10/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_8/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from usleep.c:56:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+
+**** Build of configuration Debug for project Lab1 ****
+
+Nothing to build for project Lab1
+
+****  of configuration Debug for project Lab1 ****
+
+Nothing to build for project Lab1
+16:39:33 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+../../Lab1_bsp/ps7_cortexa9_0/lib\libxil.a(xil-crt0.o): In function `_start':
+C:\Zynq_Book\Lab_1\Lab_1.sdk\Lab1_bsp\ps7_cortexa9_0\libsrc\standalone_v6_8\src/xil-crt0.S:138: undefined reference to `main'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:41: Lab1.elf] Error 1
+16:39:44 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23380	   1184	  22600	  47164	   b83c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+16:40:06 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+16:41:43 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+../../Lab1_bsp/ps7_cortexa9_0/lib\libxil.a(xil-crt0.o): In function `_start':
+C:\Zynq_Book\Lab_1\Lab_1.sdk\Lab1_bsp\ps7_cortexa9_0\libsrc\standalone_v6_8\src/xil-crt0.S:138: undefined reference to `main'
+collect2.exe: error: ld returned 1 exit status
+make: *** [makefile:41: Lab1.elf] Error 1
+16:42:09 **** Clean-only build of configuration Debug for project Lab1 ****
+make clean 
+rm -rf  ./src/LED_BUTTONS_TC.o  ./src/LED_BUTTONS_TC.d  Lab1.elf.size  Lab1.elf
+' '
+
+****  of configuration Debug for project Lab1 ****
+
+Nothing to build for project Lab1
+16:45:25 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_test_tut_1C.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_test_tut_1C.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_test_tut_1C.d" -MT"src/LED_test_tut_1C.o" -o "src/LED_test_tut_1C.o" "../src/LED_test_tut_1C.c"
+'Finished building: ../src/LED_test_tut_1C.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_test_tut_1C.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23380	   1184	  22600	  47164	   b83c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+16:45:51 **** Clean-only build of configuration Debug for project Lab1 ****
+make clean 
+rm -rf  ./src/LED_test_tut_1C.o  ./src/LED_test_tut_1C.d  Lab1.elf.size  Lab1.elf
+' '
+16:45:51 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23380	   1184	  22600	  47164	   b83c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+16:59:00 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'main':
+../src/LED_BUTTONS_TC.c:82:29: error: 'LEDInst' undeclared (first use in this function)
+  status = XGpio_Initialize(&LEDInst, LEDS_DEVICE_ID);
+                             ^~~~~~~
+../src/LED_BUTTONS_TC.c:82:29: note: each undeclared identifier is reported only once for each function it appears in
+../src/LED_BUTTONS_TC.c:86:29: error: 'BTNInst' undeclared (first use in this function); did you mean 'LEDInst'?
+  status = XGpio_Initialize(&BTNInst, BTNS_DEVICE_ID);
+                             ^~~~~~~
+                             LEDInst
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+17:06:07 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c:41:1: error: unknown type name 'XScuGic'
+ XScuGic INTCInst;
+ ^~~~~~~
+../src/LED_BUTTONS_TC.c:43:12: warning: 'btn_value' defined but not used [-Wunused-variable]
+ static int btn_value;
+            ^~~~~~~~~
+../src/LED_BUTTONS_TC.c:42:12: warning: 'led_data' defined but not used [-Wunused-variable]
+ static int led_data;
+            ^~~~~~~~
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+17:06:42 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23508	   1184	  22632	  47324	   b8dc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:10:23 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:51:30: error: expected expression before ',' token
+   Status = XGpio_Initialize(&, GPIO_DEVICE_ID);
+                              ^
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+17:10:51 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23380	   1184	  22632	  47196	   b85c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:11:13 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23380	   1184	  22616	  47180	   b84c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:11:37 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23380	   1184	  22616	  47180	   b84c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:14:20 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:60:7: error: 'status' undeclared (first use in this function); did you mean 'Status'?
+   if (status != XST_SUCCESS)
+       ^~~~~~
+       Status
+../src/LED_BUTTONS_TC.c:60:7: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+17:14:30 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:65:7: error: 'status' undeclared (first use in this function); did you mean 'Status'?
+   if (status != XST_SUCCESS)
+       ^~~~~~
+       Status
+../src/LED_BUTTONS_TC.c:65:7: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+17:14:33 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:65:7: error: 'tatus' undeclared (first use in this function); did you mean 'Status'?
+   if (tatus != XST_SUCCESS)
+       ^~~~~
+       Status
+../src/LED_BUTTONS_TC.c:65:7: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+17:14:50 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:65:7: error: 'tatus' undeclared (first use in this function); did you mean 'Status'?
+   if (tatus != XST_SUCCESS)
+       ^~~~~
+       Status
+../src/LED_BUTTONS_TC.c:65:7: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+17:14:55 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23508	   1184	  22616	  47308	   b8cc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:17:19 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23508	   1184	  22616	  47308	   b8cc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:20:06 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23508	   1184	  22616	  47308	   b8cc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:24:39 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23508	   1184	  22616	  47308	   b8cc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:25:29 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23508	   1184	  22616	  47308	   b8cc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+17:38:42 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:94:11: error: expected expression before ')' token
+   else if()
+           ^
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+17:42:45 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:96:11: error: expected expression before ')' token
+   else if()
+           ^
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+18:04:18 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^count;
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:125:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^count;
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23956	   1184	  22616	  47756	   ba8c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+18:13:43 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:125:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24084	   1184	  22616	  47884	   bb0c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+18:14:14 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:125:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24148	   1184	  22616	  47948	   bb4c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+18:14:29 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:125:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24148	   1184	  22616	  47948	   bb4c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+18:17:39 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:125:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24148	   1184	  22616	  47948	   bb4c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+18:43:06 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:44:50 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:47:01 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:47:11 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:48:30 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:49:08 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:49:31 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+18:55:59 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+19:02:05 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:114:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:119:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24084	   1184	  22616	  47884	   bb0c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+19:04:30 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:111:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:116:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24084	   1184	  22616	  47884	   bb0c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+19:15:22 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:110:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:115:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24084	   1184	  22616	  47884	   bb0c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+19:20:01 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:111:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:116:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24084	   1184	  22616	  47884	   bb0c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+19:20:11 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:111:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:116:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24084	   1184	  22616	  47884	   bb0c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+19:23:52 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:111:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:116:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24084	   1184	  22616	  47884	   bb0c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+19:30:44 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:73:34: error: 'LED_CHANNEL' undeclared (first use in this function)
+    XGpio_DiscreteWrite(&LEDInst, LED_CHANNEL, led);
+                                  ^~~~~~~~~~~
+../src/LED_BUTTONS_TC.c:73:34: note: each undeclared identifier is reported only once for each function it appears in
+../src/LED_BUTTONS_TC.c:109:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:114:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+19:31:14 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:110:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:115:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24084	   1184	  22616	  47884	   bb0c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+20:42:04 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:42:24 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:45:30 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:111:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:116:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24088	   1184	  22616	  47888	   bb10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+20:46:01 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:47:22 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:112:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:117:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24088	   1184	  22616	  47888	   bb10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+20:48:47 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24088	   1184	  22616	  47888	   bb10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+20:49:18 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:46:6: warning: variable 'Buttons' set but not used [-Wunused-but-set-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+20:49:44 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:50:16 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:53:25 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:115:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:46:6: warning: variable 'Buttons' set but not used [-Wunused-but-set-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+20:55:50 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:115:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:46:6: warning: variable 'Buttons' set but not used [-Wunused-but-set-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+20:56:02 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:56:29 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:56:54 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:57:56 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:72:28: error: 'Gpio' undeclared (first use in this function); did you mean 'XGpio'?
+       XGpio_DiscreteWrite(&Gpio, LED_CHANNEL, led);
+                            ^~~~
+                            XGpio
+../src/LED_BUTTONS_TC.c:72:28: note: each undeclared identifier is reported only once for each function it appears in
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+20:57:57 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:72:28: error: 'Gpio' undeclared (first use in this function); did you mean 'XGpio'?
+       XGpio_DiscreteWrite(&Gpio, LED_CHANNEL, led);
+                            ^~~~
+                            XGpio
+../src/LED_BUTTONS_TC.c:72:28: note: each undeclared identifier is reported only once for each function it appears in
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+20:58:21 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23444	   1184	  22616	  47244	   b88c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+20:58:28 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+20:58:50 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:01:12 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23448	   1184	  22616	  47248	   b890	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:01:16 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:01:40 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:02:05 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23448	   1184	  22616	  47248	   b890	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:02:09 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:02:35 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:11:31 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:109:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:114:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:46:6: warning: variable 'Buttons' set but not used [-Wunused-but-set-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:11:36 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:11:53 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:12:40 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:108:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24024	   1184	  22616	  47824	   bad0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:12:49 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:13:08 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:14:00 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:18:38 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23444	   1184	  22616	  47244	   b88c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:18:47 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23444	   1184	  22616	  47244	   b88c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:18:52 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:19:15 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:19:49 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23444	   1184	  22616	  47244	   b88c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:19:58 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:20:30 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:21:11 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23444	   1184	  22616	  47244	   b88c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:21:15 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:21:29 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:22:20 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:46:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23444	   1184	  22616	  47244	   b88c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:22:24 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:22:45 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:24:01 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23448	   1184	  22616	  47248	   b890	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:24:06 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:24:26 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:26:38 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23448	   1184	  22616	  47248	   b890	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:27:14 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:27:36 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:30:22 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23452	   1184	  22616	  47252	   b894	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:30:25 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:30:48 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:31:14 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:31:22 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:32:05 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:39:27 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23448	   1184	  22616	  47248	   b890	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:39:32 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:40:03 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:48:28 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24020	   1184	  22616	  47820	   bacc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:48:30 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:48:52 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:49:23 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24088	   1184	  22616	  47888	   bb10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:49:25 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:49:52 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:50:16 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24088	   1184	  22616	  47888	   bb10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:50:18 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:50:36 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:51:13 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24088	   1184	  22616	  47888	   bb10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:51:15 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:51:42 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:55:11 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24024	   1184	  22616	  47824	   bad0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:55:13 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:55:32 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:56:38 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:112:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:117:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24024	   1184	  22616	  47824	   bad0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:56:45 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:57:09 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:58:10 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:47:6: warning: unused variable 'Buttons' [-Wunused-variable]
+  u32 Buttons;
+      ^~~~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24024	   1184	  22616	  47824	   bad0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+21:58:18 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+21:58:35 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:00:57 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:112:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:117:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23956	   1184	  22616	  47756	   ba8c	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:01:02 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:01:41 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23960	   1184	  22616	  47760	   ba90	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:01:46 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:02:00 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:02:37 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23960	   1184	  22616	  47760	   ba90	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:02:42 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23960	   1184	  22616	  47760	   ba90	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:02:51 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:03:06 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:03:43 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:113:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:118:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24024	   1184	  22616	  47824	   bad0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:03:46 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:04:01 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:04:37 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:114:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:119:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24036	   1184	  22616	  47836	   badc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:04:42 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:05:12 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:06:05 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:114:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:119:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24036	   1184	  22616	  47836	   badc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:06:33 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:06:36 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:06:43 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:07:16 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:08:18 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:116:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:121:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24036	   1184	  22616	  47836	   badc	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:08:20 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:09:32 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:09:52 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:14:08 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:115:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24024	   1184	  22616	  47824	   bad0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:25:10 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:25:31 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:26:46 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:115:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24024	   1184	  22616	  47824	   bad0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:27:30 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:31:32 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:120:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led + 2^(count);
+           ~~~~^~~
+../src/LED_BUTTONS_TC.c:125:15: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+     led = led - 2^(count);
+           ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24088	   1184	  22616	  47888	   bb10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:33:38 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:119:16: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+      led = led + 2^(count);
+            ~~~~^~~
+../src/LED_BUTTONS_TC.c:124:16: warning: suggest parentheses around arithmetic in operand of '^' [-Wparentheses]
+      led = led - 2^(count);
+            ~~~~^~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24088	   1184	  22616	  47888	   bb10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:36:34 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:119:5: error: expected ';' before 'int'
+     int adder = 1;
+     ^~~
+../src/LED_BUTTONS_TC.c:122:18: error: 'adder' undeclared (first use in this function)
+      led = led + adder;
+                  ^~~~~
+../src/LED_BUTTONS_TC.c:122:18: note: each undeclared identifier is reported only once for each function it appears in
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+22:37:11 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:122:5: error: expected ';' before 'while'
+     while(led != 15)
+     ^~~~~
+../src/LED_BUTTONS_TC.c:49:6: warning: unused variable 'adder' [-Wunused-variable]
+  int adder = 1;
+      ^~~~~
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+22:37:27 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:37:33 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:49:6: warning: unused variable 'adder' [-Wunused-variable]
+  int adder = 1;
+      ^~~~~
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:37:40 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:39:02 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:39:28 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24152	   1184	  22616	  47952	   bb50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:43:04 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24216	   1184	  22616	  48016	   bb90	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:43:10 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:43:36 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:44:35 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:45:02 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:45:56 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:46:45 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:48:17 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:48:36 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:51:38 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:52:02 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:53:06 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:53:39 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:55:37 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:55:39 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:56:01 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:57:45 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:58:04 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:58:38 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+22:59:29 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+22:59:54 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:00:21 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:00:32 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:00:47 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:01:41 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:04:26 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:04:53 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:05:08 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:05:23 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:05:51 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:06:07 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:06:21 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:08:40 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:09:15 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:09:18 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:09:39 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:12:21 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:12:55 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:12:57 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:13:14 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:17:43 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24280	   1184	  22616	  48080	   bbd0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:17:49 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:18:07 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:22:22 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24344	   1184	  22616	  48144	   bc10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:23:46 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:24:06 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:28:58 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24600	   1184	  22616	  48400	   bd10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:31:10 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24664	   1184	  22616	  48464	   bd50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:31:14 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:31:29 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:31:52 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24664	   1184	  22616	  48464	   bd50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+23:32:27 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:32:52 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+23:59:31 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  24984	   1184	  22616	  48784	   be90	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+00:01:35 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  25176	   1184	  22616	  48976	   bf50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+00:01:43 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  25176	   1184	  22616	  48976	   bf50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+00:01:49 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+00:02:11 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+00:02:26 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  25176	   1184	  22616	  48976	   bf50	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+00:02:37 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+00:02:56 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+00:03:08 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+00:03:25 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+00:04:45 **** Incremental Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+make: Nothing to be done for 'main-build'.
+14:24:20 **** Build of project Lab1_bsp ****
+make -k all 
+"Running Make include in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/emacps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/qspips_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_5/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scugic_v3_10/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_10/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/sdps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_6/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/standalone_v6_8/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_8/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/ttcps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make include in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s include  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Running Make libs in ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src"
+make -C ps7_cortexa9_0/libsrc/coresightps_dcc_v1_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling coresightps_dcc"
+"Running Make libs in ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src"
+make -C ps7_cortexa9_0/libsrc/cpu_cortexa9_v2_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling cpu_cortexa9"
+"Running Make libs in ps7_cortexa9_0/libsrc/ddrps_v1_0/src"
+make -C ps7_cortexa9_0/libsrc/ddrps_v1_0/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ddrps"
+"Running Make libs in ps7_cortexa9_0/libsrc/devcfg_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/devcfg_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling devcfg"
+"Running Make libs in ps7_cortexa9_0/libsrc/dmaps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/dmaps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling dmaps"
+"Running Make libs in ps7_cortexa9_0/libsrc/emacps_v3_8/src"
+make -C ps7_cortexa9_0/libsrc/emacps_v3_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling emacps"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpiops_v3_4/src"
+make -C ps7_cortexa9_0/libsrc/gpiops_v3_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpiops"
+"Running Make libs in ps7_cortexa9_0/libsrc/gpio_v4_3/src"
+make -C ps7_cortexa9_0/libsrc/gpio_v4_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling gpio"
+"Running Make libs in ps7_cortexa9_0/libsrc/qspips_v3_5/src"
+make -C ps7_cortexa9_0/libsrc/qspips_v3_5/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling qspips"
+"Running Make libs in ps7_cortexa9_0/libsrc/scugic_v3_10/src"
+make -C ps7_cortexa9_0/libsrc/scugic_v3_10/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scugic"
+"Running Make libs in ps7_cortexa9_0/libsrc/scutimer_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scutimer_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scutimer"
+"Running Make libs in ps7_cortexa9_0/libsrc/scuwdt_v2_1/src"
+make -C ps7_cortexa9_0/libsrc/scuwdt_v2_1/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling scuwdt"
+"Running Make libs in ps7_cortexa9_0/libsrc/sdps_v3_6/src"
+make -C ps7_cortexa9_0/libsrc/sdps_v3_6/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling sdps"
+"Running Make libs in ps7_cortexa9_0/libsrc/standalone_v6_8/src"
+make -C ps7_cortexa9_0/libsrc/standalone_v6_8/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling standalone"
+In file included from usleep.c:56:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from sleep.c:53:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xil_sleeptimer.c:51:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+In file included from xtime_l.c:49:0:
+xtime_l.h:87:9: note: #pragma message: For the sleep routines, Global timer is being used
+ #pragma message ("For the sleep routines, Global timer is being used")
+         ^~~~~~~
+"Running Make libs in ps7_cortexa9_0/libsrc/ttcps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/ttcps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling ttcps"
+"Running Make libs in ps7_cortexa9_0/libsrc/uartps_v3_7/src"
+make -C ps7_cortexa9_0/libsrc/uartps_v3_7/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling uartps"
+"Running Make libs in ps7_cortexa9_0/libsrc/usbps_v2_4/src"
+make -C ps7_cortexa9_0/libsrc/usbps_v2_4/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling usbps"
+"Running Make libs in ps7_cortexa9_0/libsrc/xadcps_v2_3/src"
+make -C ps7_cortexa9_0/libsrc/xadcps_v2_3/src -s libs  "SHELL=CMD" "COMPILER=arm-none-eabi-gcc" "ARCHIVER=arm-none-eabi-ar" "COMPILER_FLAGS=  -O2 -c" "EXTRA_COMPILER_FLAGS=-mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -nostartfiles -g -Wall -Wextra"
+"Compiling xadcps"
+'Finished building libraries'
+14:24:54 **** Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23768	   1184	  22616	  47568	   b9d0	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
+14:31:49 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+../src/LED_BUTTONS_TC.c: In function 'LEDOutputExample':
+../src/LED_BUTTONS_TC.c:50:9: error: lvalue required as left operand of assignment
+  Status = XGpio_Initialize(&LEDInst, LEDS_DEVICE_ID);
+         ^
+make: *** [src/subdir.mk:23: src/LED_BUTTONS_TC.o] Error 1
+14:32:17 **** Auto Build of configuration Debug for project Lab1 ****
+make pre-build main-build 
+a9-linaro-pre-build-step
+' '
+'Building file: ../src/LED_BUTTONS_TC.c'
+'Invoking: ARM v7 gcc compiler'
+arm-none-eabi-gcc -Wall -O0 -g3 -c -fmessage-length=0 -MT"src/LED_BUTTONS_TC.o" -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -I../../Lab1_bsp/ps7_cortexa9_0/include -MMD -MP -MF"src/LED_BUTTONS_TC.d" -MT"src/LED_BUTTONS_TC.o" -o "src/LED_BUTTONS_TC.o" "../src/LED_BUTTONS_TC.c"
+'Finished building: ../src/LED_BUTTONS_TC.c'
+' '
+'Building target: Lab1.elf'
+'Invoking: ARM v7 gcc linker'
+arm-none-eabi-gcc -mcpu=cortex-a9 -mfpu=vfpv3 -mfloat-abi=hard -Wl,-build-id=none -specs=Xilinx.spec -Wl,-T -Wl,../src/lscript.ld -L../../Lab1_bsp/ps7_cortexa9_0/lib -o "Lab1.elf"  ./src/LED_BUTTONS_TC.o   -Wl,--start-group,-lxil,-lgcc,-lc,--end-group
+'Finished building target: Lab1.elf'
+' '
+'Invoking: ARM v7 Print Size'
+arm-none-eabi-size Lab1.elf  |tee "Lab1.elf.size"
+   text	   data	    bss	    dec	    hex	filename
+  23832	   1184	  22616	  47632	   ba10	Lab1.elf
+'Finished building: Lab1.elf.size'
+' '
